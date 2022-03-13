@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://demoqa.com",
+  "ignoreTestFiles": "**/examples/*",
+  "viewportHeight": 900,
+  "viewportWidth": 1440
+}

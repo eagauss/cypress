@@ -1,0 +1,27 @@
+{
+  "labels": {
+    "studentName": "Student Name",
+    "studentEmail": "Student Email",
+    "studentGender": "Gender",
+    "studentMobile": "Mobile",
+    "studentDateOfBirth": "Date of Birth",
+    "studentSubject": "Subjects",
+    "studentHobbies": "Hobbies",
+    "studentPicture": "Picture",
+    "studentAddress": "Address",
+    "studentStateAndCity": "State and City"
+  },
+  "values": {
+    "studentName": "John",
+    "studentEmail": "jo@hn.doe",
+    "studentGender": "Male",
+    "studentMobile": "0987654321",
+    "studentDateOfBirth": "11 March,2022",
+    "studentSubject": "Some subject",
+    "studentHobbies": "Sports",
+    "studentPicture": "IN_Ukraine.png",
+    "studentAddress": "Some address",
+    "studentStateAndCity": "Haryana Panipat",
+    "modalHeader": "Thanks for submitting the form"
+  }
+}

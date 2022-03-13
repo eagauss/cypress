@@ -1,0 +1,16 @@
+{
+  "inputData": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "userEmail": "jo@hn.doe",
+    "gender": 0,
+    "mobile": "0987654321",
+    "dateOfBirth": "11",
+    "subject": "Some subject",
+    "hobbies": 0,
+    "picture": "IN_Ukraine.png",
+    "address": "Some address",
+    "state": "Haryana",
+    "city": "Panipat"
+  }
+}
