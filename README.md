@@ -16,4 +16,4 @@ Tests are located in `cypress/integration` folder
 
 Page files are located in `cypress/support/page_objects` folder
 
-Date files are located in  `cypress/fixtures` folder
+Data files are located in  `cypress/fixtures` folder
